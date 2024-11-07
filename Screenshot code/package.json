@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.1669.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "puppeteer-core": "^22.13.0",
+    "util": "^0.12.5"
+  },
+  "devDependencies": {
+    "@sparticuz/chromium-min": "^119.0.2",
+    "puppeteer": "^22.13.0"
+  }
+}
